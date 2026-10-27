@@ -1,4 +1,4 @@
-# yespos-example-laravel
+# example-laravel
 
 Contoh storefront **Laravel** di atas SDK [`yespos/client`](https://github.com/Yes-Pos/yespos-client-sdk-php): katalog produk, keranjang, checkout **QRIS / Virtual Account / EDC**, dan penerima callback status order.
 
